@@ -7,3 +7,5 @@ Scissors cuts paper
 Paper wraps rock.
 
 Have fun playing it 😌
+
+Ohh lest I forget, here's a [demo link](https://quentin-rockpaperscissors.netlify.app/)
